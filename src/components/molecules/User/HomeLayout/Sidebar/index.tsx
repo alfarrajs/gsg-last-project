@@ -28,7 +28,7 @@ const Sidebar = () => {
                 color: '#14a800',
               },
             }}>
-            Mohammed Raida
+            Izzedeen Alfarra
           </Typography>
           <Typography
             sx={{ fontSize: '12px', color: '#001e00' }}
